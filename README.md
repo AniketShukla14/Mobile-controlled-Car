@@ -1,5 +1,5 @@
 # Mobile-controlled-Car
-<li>A mobile controlled car was created using arduino codes which can take command from the mobile connected by bluetooth to move.</li>
+<li>A mobile controlled car was created using Arduino codes which can take command from the mobile connected by Bluetooth to move.</li>
 <li>I was always fascinated to run a car using my mobile as I saw it in James bond movies, Hence decided to create this in my very first year of engineering</li>
 <br>
   <br>
